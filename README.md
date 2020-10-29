@@ -27,15 +27,16 @@ https://github.com/jieunn01/Midterm.git
 To run this project, please follow this first.
 
 --- 
+* ls - see all the files in that place
+* cd Desktop
+* git clone [github repo URL]
+* cd [project-name-folder]
+* open .
 
-$ cd Desktop
-$ git clone [github repo URL]
-$ cd [project-name-folder]
-$ open .
 
+## Commands using
 
-## Code using 
-This is all the commands used during midterm.
+This is all the commands used during the midterm.
 
 ---
 
